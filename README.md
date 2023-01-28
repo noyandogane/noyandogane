@@ -5,9 +5,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=noyandogane&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=noyandogane&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noyandogane&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=noyandogane&icon=5&color=6)](https://visitcount.itsvg.in)
