@@ -1,3 +1,5 @@
+## Tech Stack:
+./Full-Stack Developer/Next.js/React.js/TailwindCSS/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noyandogane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noyan-do%C4%9Fan-enginar-b52a5623a/) 
