@@ -1,3 +1,6 @@
+
+<img src="https://github.com/noyandogane/noyandogane/assets/66711531/665c9460-d05f-4cb8-b07a-7c3bbff06377" width="122">
+
 ## Tech Stack:
 ./Full-Stack Developer/Next.js/React.js/TailwindCSS/
 
